@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Abheek Ghosh</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,12 +13,36 @@
     </image>
     
     <item>
+      <title>Abheek Ghosh</title>
+      <link>/authors/abheek-ghosh/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/abheek-ghosh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umang Bhaskar</title>
+      <link>/authors/umang-bhaskar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/umang-bhaskar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varsha Dani</title>
+      <link>/authors/varsha-dani/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/varsha-dani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <description>&lt;p&gt;I am a second-year MS student in the &lt;a href=&#34;https://cs.utexas.edu/&#34;&gt;Department of Computer Science&lt;/a&gt; at the &lt;a href=&#34;https://www.utexas.edu/&#34;&gt;University of Texas at Austin&lt;/a&gt;. Before joining UT, I was an undergrad at the &lt;a href=&#34;https://www.iitg.ac.in/&#34;&gt;Indian Institute of Technology Guwahati&lt;/a&gt;, where I majored in &lt;a href=&#34;http://www.iitg.ac.in/maths/acads/btech_struct.php&#34;&gt;Mathematics and Computing&lt;/a&gt;. &lt;!-- I hope to start my Ph.D. next fall. --&gt;&lt;/p&gt;
+&lt;p&gt;I am interested in theoretical computer science and applied mathematics, particularly algorithms, optimization, learning theory, and their application to economics.&lt;/p&gt;
 </description>
     </item>
     

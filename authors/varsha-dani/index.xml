@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abheek Ghosh</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Abheek Ghosh</description>
+    <title>Varsha Dani | Abheek Ghosh</title>
+    <link>/authors/varsha-dani/</link>
+      <atom:link href="/authors/varsha-dani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Varsha Dani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Abheek Ghosh</title>
-      <link>/</link>
+      <title>Varsha Dani</title>
+      <link>/authors/varsha-dani/</link>
     </image>
-    
-    <item>
-      <title>On the Welfare of Cardinal Voting Mechanisms</title>
-      <link>/publication/bhaskar-2018-welfare/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bhaskar-2018-welfare/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Truthful and near-optimal mechanisms for welfare maximization in multi-winner elections</title>
